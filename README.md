@@ -25,8 +25,10 @@
 <br />
 
 
+
 ## About me
- - I'm a `DevOps` and `Cloud Architect` currently working as a Senior DevOps Engineer at <img src="globant-logo-dark.svg" alt="Alt text" style="width:11%; height:auto;"> 
+ - I'm a <span style="background-color: blue;">`DevOps`</span> and <span style="background-color: blue;">`Cloud Architect`</span>.
+ currently working as a Senior DevOps Engineer at <img src="globant-logo-dark.svg" alt="Alt text" style="width:11%; height:auto;"> 
  - I am working mostly with Azure Cloud
  - I am currently learning about AI and ML
  - Reach me anytime: odisor@gmail.com<br/><br/>
