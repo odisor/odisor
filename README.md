@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://odisor.techm">Hernan Rosido</a></b>
+                <b><a target="_blank" href="https://linkedin.com/in/hernanrosido">Hernan Rosido</a></b>
         </samp>
 </h3>
 
@@ -12,21 +12,21 @@
  <a href="https://linkedin.com/in/hernanrosido" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="odisor"/>
  </a>
- <!-- <a href="https://dev.to/odisor" target="_blank">
+ <!--a href="https://dev.to/odisor" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="odisor" />
- </a> -->
+ </a-->
  <a href="https://twitter.com/odisor" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://youtube.com/channel/UCtfN-qWwLskhz2Y_dzxC69Q" target="_blank">
+ <!--a href="https://youtube.com/channel/UCtfN-qWwLskhz2Y_dzxC69Q" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" alt="odisor"  />
-  </a> 
+  </a--> 
 </p>
 <br />
 
 
 ## About me
- - I'm a DevOps and Cloud Architect currently working as a Senior DevOps Engineer at <img src="globant-logo-dark.svg" alt="Alt text" style="width:15%; height:auto;"> 
+ - I'm a `DevOps` and `Cloud Architect` currently working as a Senior DevOps Engineer at <img src="globant-logo-dark.svg" alt="Alt text" style="width:11%; height:auto;"> 
  - I am working mostly with Azure Cloud
  - I am currently learning about AI and ML
  - Reach me anytime: odisor@gmail.com<br/><br/>
