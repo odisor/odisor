@@ -40,8 +40,17 @@
 <br>
 
 ## Certifications I have achieved
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+
+[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/odisor/3C9ECF02C2713FB7?sharingId=BBFD841943B214B "Microsoft Certified: DevOps Engineer Expert")
+[![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/odisor/23D42E6BE7612F28?sharingId=BBFD841943B214B "Microsoft Certified: Azure Solutions Architect Expert")
+[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/odisor/926CA528FFA52C17?sharingId=BBFD841943B214B "Microsoft Certified: Azure Administrator Associate")
+[![Microsoft Certified: Azure AI Engineer Associate](https://images.credly.com/size/110x110/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png)](https://learn.microsoft.com/api/credentials/share/en-us/odisor/5DEF3B252A9E742F?sharingId=BBFD841943B214B "Microsoft Certified: Azure AI Engineer Associate")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://learn.microsoft.com/api/credentials/share/en-us/odisor/A2D4BC371876B4B0?sharingId=BBFD841943B214B "Microsoft Certified: Azure Fundamentals")
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/6571dcec-2a0b-416e-a130-10c42a67517a "AWS Certified Cloud Practitioner")
+[![AWS Partner: Accreditation (Business)](https://images.credly.com/size/110x110/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png)](https://www.credly.com/badges/9957cc35-2fba-4bcc-9205-8d0d8484a828 "AWS Partner: Accreditation (Business)")
+[![AWS Partner: Cloud Economics Accreditation](https://images.credly.com/size/110x110/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png)](https://www.credly.com/badges/0b45d5db-5cf7-4d1e-aee5-305ca5975ae8 "AWS Partner: Cloud Economics Accreditation")
+
 
 <br>
 
