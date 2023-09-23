@@ -33,12 +33,9 @@
  - I am a `DevOps` and `Cloud Architect` currently working as a Senior DevOps Engineer at <img src="globant-logo-dark.svg" alt="Alt text" style="width:11%; height:auto;"> 
  - I am working mostly with Azure Cloud
  - I am currently learning about AI and ML
- - Reach me anytime: <a href="https://linkedin.com/in/hernanrosido">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
-  />
-</a>
+ - Reach me anytime: [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/hernanrosido)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:odisor@gmail.com?subject=[GitHub]%20Contact)
+
 
 <br>
 
