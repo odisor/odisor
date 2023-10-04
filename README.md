@@ -80,7 +80,7 @@
 <div align="center">
  <div>
    <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=odisor&theme=highcontrast&card_width=480&type=png&ring=EB5454" alt="hernan-rosido" />
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=odisor&theme=highcontrast&card_width=480" alt="hernan-rosido" />
    </p>
   </div>
  </div>
