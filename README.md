@@ -60,10 +60,9 @@
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flate&logo=GNU%20Bash&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/ARM%20Templates-0089D6?style=flate&logo=Microsoft%20Azure&logoColor=white" />
-  <img alt="CloudFormation" src="(https://img.shields.io/badge/CloudFormation-EC2025?style=flat&logo=AWSCloudFormation&logoColor=white" />
+  <img alt="CloudFormation" src="https://img.shields.io/badge/CloudFormation-EC2025?style=flat&logo=AWSCloudFormation&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-FF0000?style=flate&logo=Ansible&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=flate&logo=Terraform&logoColor=white" />
-  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?  style=flate&logo=Azure%20Pipelines&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white" />
 </p>
 
@@ -81,8 +80,9 @@
 
 ## CI/CD Tools
 <p>
+  <img alt="GitHub Actions]" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
-  <img alt="Azure Devops" src="https://img.shields.io/badge/Azure DevOps-0078D7?logo=azure+devops&logoColor=white&style=flat" />
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?  style=flate&logo=Azure%20Pipelines&logoColor=white" />
 </p>
 
 <br>
