@@ -82,7 +82,7 @@
 <p>
   <img alt="GitHub Actions]" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
-  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?  style=flate&logo=Azure%20Pipelines&logoColor=white" />
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=flate&logo=Azure%20Pipelines&logoColor=white" />
 </p>
 
 <br>
