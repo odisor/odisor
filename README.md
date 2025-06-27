@@ -31,7 +31,8 @@
 
 ## About me
  - I am a `DevOps` and `Cloud Architect` currently working as a DevSecOps Consultant at <img src="gs-logo.svg" alt="Alt text" style="width:19%; height:auto;"> 
- - I am working mostly with Azure Cloud
+ - I am working mostly with AWS Cloud
+ - I have extensive experience working with Azure Cloud
  - I am currently learning about AI and ML
  - Reach me anytime: [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/odisor)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:odisor@gmail.com?subject=[GitHub]%20Contact)
@@ -91,7 +92,7 @@
 <div align="center">
  <div>
    <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=odisor&theme=highcontrast&card_width=480" alt="hernan-rosido" />
+     <img align="center" src="https://streak-stats.demolab.com?user=odisor&theme=highcontrast&card_width=480" alt="hernan-rosido" />
    </p>
   </div>
  </div>
