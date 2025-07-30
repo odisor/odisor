@@ -55,15 +55,36 @@
 
 <br>
 
+
+## Other Relevant Training I have completed
+
+#### IaC
+- [Terraform - Getting Started](https://app.pluralsight.com/achievements/share/5efd2cac-e6f9-4ee5-9643-f50de1aeb4ed)
+- [Terraform - Deep Dive](https://app.pluralsight.com/achievements/share/53c77b8c-d417-434d-a880-2cee88657794)
+- [Implementing Terraform on Microsoft Azure](https://app.pluralsight.com/achievements/share/4b10a75b-4122-4e44-a61b-77d02bfce906)
+- [Managing Ansible with Red Hat Ansible Tower](https://app.pluralsight.com/achievements/share/e92b0c07-5fe5-4a46-ba50-6ff51dcbf633)
+- [Integrating Ansible with Azure DevOps](https://app.pluralsight.com/achievements/share/2f8f651a-6ce1-434a-8752-c0d3235b2472)
+
+#### K8S
+- [DO280 - OpenShift Administration](https://drive.google.com/file/d/1IVVBMC7J_cyO7Alov5tZGFNYojpmEQxs/view?usp=share_link)
+- [DO180 - OpenShift  Containers/Kubernetes](https://drive.google.com/file/d/1oFqynP_lIzKrffx8DR098QXxyRRtiUlc/view?usp=share_link)
+
+#### AI/ML
+- [Microsoft Azure Cognitive Services: The Big Picture](https://app.pluralsight.com/achievements/share/c6967c81-2dcd-4bca-aaed-5c6de45485f7)
+- [Orchestrating Workflows for GenAI Applications](https://learn.deeplearning.ai/accomplishments/37046d0e-319d-43ea-a5a4-c6bbf2238e74?usp=sharing)
+
+<br>
+
+
 ## Use To Code
 <p>
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-1A1A1A?style=flate&logo=PowerShell&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flate&logo=GNU%20Bash&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=flate&logo=Terraform&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/ARM%20Templates-0089D6?style=flate&logo=Microsoft%20Azure&logoColor=white" />
   <img alt="CloudFormation" src="https://img.shields.io/badge/CloudFormation-EC2025?style=flat&logo=AWSCloudFormation&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-FF0000?style=flate&logo=Ansible&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=flate&logo=Terraform&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-1A1A1A?style=flate&logo=PowerShell&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flate&logo=GNU%20Bash&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white" />
 </p>
 
@@ -82,7 +103,7 @@
 ## CI/CD Tools
 <p>
   <img alt="GitHub Actions]" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-1F1E24?style=flat&logo=GitLab&logoColor=orange" />
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=flate&logo=Azure%20Pipelines&logoColor=white" />
 </p>
 
